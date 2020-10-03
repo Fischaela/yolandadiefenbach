@@ -73,7 +73,7 @@ body {
   background-image: url('./assets/photos/DSC_4682-edit-2.jpg');
   background-position: 15% center;
   background-size: cover;
-  position: fixed;
+  position: absolute;
   top: 0;
   right: 0;
   bottom: 0;

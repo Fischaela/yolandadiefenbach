@@ -38,7 +38,7 @@ function App() {
       <header className="header">
         <section className="hero">
           <div className="hero__img"></div>
-          <h1 className="hero__title">Yolanda Diefenbach</h1>
+          {/* <h1 className="hero__title">Yolanda Diefenbach</h1> */}
         </section>
       </header>
       <nav className="nav">
