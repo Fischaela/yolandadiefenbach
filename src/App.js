@@ -40,12 +40,12 @@ function App() {
           <h1 className="title">Yolanda Diefenbach</h1>
         </section>
       </header>
+      <nav className="nav">
+        <p className="nav__brand">
+          Yolanda Diefenbach
+        </p>
+      </nav>
       <section role="main" className="main">
-        <nav className="nav">
-          <p className="nav__brand">
-            Yolanda Diefenbach
-          </p>
-        </nav>
         <section className="content">
           <img
             className="content__portrait"
