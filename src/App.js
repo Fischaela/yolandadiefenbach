@@ -37,7 +37,8 @@ function App() {
     <div className="app">
       <header className="header">
         <section className="hero">
-          <h1 className="title">Yolanda Diefenbach</h1>
+          <div className="hero__img"></div>
+          <h1 className="hero__title">Yolanda Diefenbach</h1>
         </section>
       </header>
       <nav className="nav">
