@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d04056e4cc9eb9d37f690d5079703698",
+    "revision": "fd1259985e4413f7551260abb08f3347",
     "url": "/yolandadiefenbach/index.html"
   },
   {
-    "revision": "3033f1ad3d40fe857d8e",
-    "url": "/yolandadiefenbach/static/css/main.5e5d5b2d.chunk.css"
+    "revision": "af2634bc07ce5dccbb9e",
+    "url": "/yolandadiefenbach/static/css/main.60497427.chunk.css"
   },
   {
     "revision": "b8be58222c91bb7f1dd5",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yolandadiefenbach/static/js/2.b81e8838.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3033f1ad3d40fe857d8e",
-    "url": "/yolandadiefenbach/static/js/main.6f59f6f0.chunk.js"
+    "revision": "af2634bc07ce5dccbb9e",
+    "url": "/yolandadiefenbach/static/js/main.045c18e0.chunk.js"
   },
   {
     "revision": "39a28f2bf6f65cf9d887",
