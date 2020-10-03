@@ -1,38 +1,123 @@
-.App {
-  text-align: center;
+/* @import url('https://fonts.googleapis.com/css2?family=Suranna&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,300;1,300&display=swap');
+
+body {
+  font-family: 'Jost', sans-serif;
+  font-weight: 300;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin: 8rem 2rem 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.content__portrait {
+  width: 40vw;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.content__quote {
+  font-size: 3vw;
+  font-style: italic;
+  width: 40vw;
+}
+
+.footer {
+  align-items: center;
+  border-top: 0.5px solid #d8d8d8;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 8rem;
+  padding: 0 1rem;
+}
+
+.footer__item {
+  color: #000;
+  margin: 0;
+  padding: 1rem 0;
+  text-decoration: none;
+}
+
+.footer__item:hover {
+  color: #ff8d6f;
+  text-decoration: underline;
+}
+
+.hero {
+  align-items: center;
+  background-attachment: fixed;
+  background-image: url('./assets/photos/DSC_4682-edit-2.jpg');
+  background-position: 15% center;
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  width: 100vw;
+}
+
+.main {
+  background-color: #fff;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+.nav {
   align-items: center;
+  display: flex;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  padding: 0 1rem;
 }
 
-.App-link {
-  color: #61dafb;
+.nav__brand {
+  margin: 0;
+  padding: 1rem 0;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.sociallist {
+  align-items: stretch;
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  margin:0;
+  padding: 0;
+  width: 100%;
+}
+
+.sociallist__item {
+  margin: 0 1.5rem;
+}
+
+.sociallist__item__link {
+  align-items: center;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.sociallist__item__link:hover {
+  color: #ff8d6f;
+  text-decoration: underline;
+}
+
+.sociallist__item__link__image {
+  width: 30px;
+}
+
+.sociallist__item__link__label {
+  margin: 0;
+  padding-top: 1rem;
+}
+
+.title {
+  color: #ff8d6f;
+  font-size: 7vw;
+  /* font-family: 'Suranna', serif; */
+  margin: 0;
 }
