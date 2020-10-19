@@ -10,25 +10,27 @@ import spotify from './assets/icons/spotify.svg';
 import youtube from './assets/icons/youtube.svg';
 
 const social = [
-  {
-    label: 'Bandcamp',
-    component: bandcamp,
-  },
+  // {
+  //   label: 'Bandcamp',
+  //   component: bandcamp,
+  // },
   {
     label: 'Instagram',
     component: instagram,
+    url: 'https://www.instagram.com/yolanda.diefenbach/',
   },
-  {
-    label: 'Patreon',
-    component: patreon,
-  },
-  {
-    label: 'Spotify',
-    component: spotify,
-  },
+  // {
+  //   label: 'Patreon',
+  //   component: patreon,
+  // },
+  // {
+  //   label: 'Spotify',
+  //   component: spotify,
+  // },
   {
     label: 'Youtube',
     component: youtube,
+    url: 'https://www.youtube.com/user/yolinumberone',
   }
 ]
 
@@ -38,27 +40,49 @@ function App() {
       <header className="header">
         <section className="hero">
           <div className="hero__img"></div>
-          {/* <h1 className="hero__title">Yolanda Diefenbach</h1> */}
+          <h1
+            className="hero__title glitch"
+            data-glitch="Awake."
+          >Awake.</h1>
         </section>
       </header>
-      <nav className="nav">
+      {/* <nav className="nav">
         <p className="nav__brand">
           Yolanda Diefenbach
         </p>
-      </nav>
+      </nav> */}
       <section role="main" className="main">
         <section className="content">
           <img
             className="content__portrait"
             src={portrait}
           />
-          <q className="content__quote">May we never stop inpiring our children. May we never stop being a child.</q>
+          <div className="animation-wrapper">
+            <blockquote
+              cite="https://yolandadiefenbach.de"
+              className="content__quote animation-fade animation-fade--out-in"
+            >
+              awake awake little grace<br />
+              awake awake bursted your silk case<br />
+              no limit infinte wast waits<br />
+              awake awake little grace
+            </blockquote>
+            <blockquote
+              cite="https://yolandadiefenbach.de"
+              className="content__quote animation-fade animation-fade--in-out"
+            >
+              inhale inhale wide splay<br />
+              follow you wonderful pale lemon grace<br />
+              wayfare light years anyway<br />
+              live alive love be loved pale lemon grace
+            </blockquote>
+          </div>
         </section>
         <section className="content">
           <ul className="sociallist">
             { social.map(item => (
             <li className="sociallist__item">
-              <a href="#" className="sociallist__item__link">
+              <a href={item.url} className="sociallist__item__link">
                 <img
                   className="sociallist__item__link__image"
                   src={item.component}
