@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/yolandadiefenbach/static/css/main.7adbf077.chunk.css",
-    "main.js": "/yolandadiefenbach/static/js/main.c407fdd1.chunk.js",
-    "main.js.map": "/yolandadiefenbach/static/js/main.c407fdd1.chunk.js.map",
+    "main.css": "/yolandadiefenbach/static/css/main.4388d9d6.chunk.css",
+    "main.js": "/yolandadiefenbach/static/js/main.15818092.chunk.js",
+    "main.js.map": "/yolandadiefenbach/static/js/main.15818092.chunk.js.map",
     "runtime-main.js": "/yolandadiefenbach/static/js/runtime-main.0b10908e.js",
     "runtime-main.js.map": "/yolandadiefenbach/static/js/runtime-main.0b10908e.js.map",
-    "static/js/2.734e036e.chunk.js": "/yolandadiefenbach/static/js/2.734e036e.chunk.js",
-    "static/js/2.734e036e.chunk.js.map": "/yolandadiefenbach/static/js/2.734e036e.chunk.js.map",
+    "static/js/2.0585bcec.chunk.js": "/yolandadiefenbach/static/js/2.0585bcec.chunk.js",
+    "static/js/2.0585bcec.chunk.js.map": "/yolandadiefenbach/static/js/2.0585bcec.chunk.js.map",
     "index.html": "/yolandadiefenbach/index.html",
-    "precache-manifest.9a4cab9248c917691d348e95c832af40.js": "/yolandadiefenbach/precache-manifest.9a4cab9248c917691d348e95c832af40.js",
+    "precache-manifest.35502ac068a5754ac1335944ba8d37ea.js": "/yolandadiefenbach/precache-manifest.35502ac068a5754ac1335944ba8d37ea.js",
     "service-worker.js": "/yolandadiefenbach/service-worker.js",
-    "static/css/main.7adbf077.chunk.css.map": "/yolandadiefenbach/static/css/main.7adbf077.chunk.css.map",
-    "static/js/2.734e036e.chunk.js.LICENSE.txt": "/yolandadiefenbach/static/js/2.734e036e.chunk.js.LICENSE.txt",
+    "static/css/main.4388d9d6.chunk.css.map": "/yolandadiefenbach/static/css/main.4388d9d6.chunk.css.map",
+    "static/js/2.0585bcec.chunk.js.LICENSE.txt": "/yolandadiefenbach/static/js/2.0585bcec.chunk.js.LICENSE.txt",
     "static/media/App.css": "/yolandadiefenbach/static/media/DSC_4682-edit-2.c1546c8d.jpg",
     "static/media/DSC_5042-Bearbeitet.jpg": "/yolandadiefenbach/static/media/DSC_5042-Bearbeitet.adcfb416.jpg",
     "static/media/bandcamp.svg": "/yolandadiefenbach/static/media/bandcamp.c5f9b870.svg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0b10908e.js",
-    "static/js/2.734e036e.chunk.js",
-    "static/css/main.7adbf077.chunk.css",
-    "static/js/main.c407fdd1.chunk.js"
+    "static/js/2.0585bcec.chunk.js",
+    "static/css/main.4388d9d6.chunk.css",
+    "static/js/main.15818092.chunk.js"
   ]
 }
