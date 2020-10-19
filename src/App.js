@@ -59,7 +59,7 @@ function App() {
           />
           <div className="animation-wrapper">
             <blockquote
-              cite="https://yolandadiefenbach.de"
+              cite="https://yolandadiefenbach.com/"
               className="content__quote animation-fade animation-fade--out-in"
             >
               awake awake little grace<br />
@@ -68,7 +68,7 @@ function App() {
               awake awake little grace
             </blockquote>
             <blockquote
-              cite="https://yolandadiefenbach.de"
+              cite="https://yolandadiefenbach.com/"
               className="content__quote animation-fade animation-fade--in-out"
             >
               inhale inhale wide splay<br />
