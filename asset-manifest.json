@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa65bc08.chunk.css",
-    "main.js": "/static/js/main.2f3ffc6b.chunk.js",
-    "main.js.map": "/static/js/main.2f3ffc6b.chunk.js.map",
+    "main.css": "/static/css/main.f508ec82.chunk.css",
+    "main.js": "/static/js/main.9df3ead5.chunk.js",
+    "main.js.map": "/static/js/main.9df3ead5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.33e62595.js",
     "runtime-main.js.map": "/static/js/runtime-main.33e62595.js.map",
-    "static/js/2.734e036e.chunk.js": "/static/js/2.734e036e.chunk.js",
-    "static/js/2.734e036e.chunk.js.map": "/static/js/2.734e036e.chunk.js.map",
+    "static/js/2.b81e8838.chunk.js": "/static/js/2.b81e8838.chunk.js",
+    "static/js/2.b81e8838.chunk.js.map": "/static/js/2.b81e8838.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1fd565a7d8438d38782e86c404c4f1dd.js": "/precache-manifest.1fd565a7d8438d38782e86c404c4f1dd.js",
+    "precache-manifest.ee02177d6bdca0b2e97501d16da2f57c.js": "/precache-manifest.ee02177d6bdca0b2e97501d16da2f57c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.aa65bc08.chunk.css.map": "/static/css/main.aa65bc08.chunk.css.map",
-    "static/js/2.734e036e.chunk.js.LICENSE.txt": "/static/js/2.734e036e.chunk.js.LICENSE.txt",
+    "static/css/main.f508ec82.chunk.css.map": "/static/css/main.f508ec82.chunk.css.map",
+    "static/js/2.b81e8838.chunk.js.LICENSE.txt": "/static/js/2.b81e8838.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/DSC_4682-edit-2.c1546c8d.jpg",
     "static/media/DSC_5042-Bearbeitet.jpg": "/static/media/DSC_5042-Bearbeitet.adcfb416.jpg",
-    "static/media/bandcamp.svg": "/static/media/bandcamp.c5f9b870.svg",
-    "static/media/App.css": "/static/media/hero.066d117d.png",
     "static/media/instagram.svg": "/static/media/instagram.662a4f14.svg",
+    "static/media/kofi.svg": "/static/media/kofi.3b15f9a8.svg",
     "static/media/patreon.svg": "/static/media/patreon.9adbc46c.svg",
-    "static/media/spotify.svg": "/static/media/spotify.aee4e77e.svg",
+    "static/media/paypal.svg": "/static/media/paypal.83720e79.svg",
     "static/media/youtube.svg": "/static/media/youtube.d57a47e1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.33e62595.js",
-    "static/js/2.734e036e.chunk.js",
-    "static/css/main.aa65bc08.chunk.css",
-    "static/js/main.2f3ffc6b.chunk.js"
+    "static/js/2.b81e8838.chunk.js",
+    "static/css/main.f508ec82.chunk.css",
+    "static/js/main.9df3ead5.chunk.js"
   ]
 }
