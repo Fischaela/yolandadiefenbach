@@ -3,34 +3,37 @@ import React from 'react';
 import './App.css';
 
 import portrait from './assets/photos/DSC_5042-Bearbeitet.jpg';
-import bandcamp from './assets/icons/bandcamp.svg';
+import paypal from './assets/icons/paypal.svg';
 import instagram from './assets/icons/instagram.svg';
 import patreon from './assets/icons/patreon.svg';
-import spotify from './assets/icons/spotify.svg';
+import kofi from './assets/icons/kofi.svg';
 import youtube from './assets/icons/youtube.svg';
 
 const social = [
-  // {
-  //   label: 'Bandcamp',
-  //   component: bandcamp,
-  // },
   {
     label: 'Instagram',
     component: instagram,
     url: 'https://www.instagram.com/yolanda.diefenbach/',
   },
-  // {
-  //   label: 'Patreon',
-  //   component: patreon,
-  // },
-  // {
-  //   label: 'Spotify',
-  //   component: spotify,
-  // },
+  {
+    label: 'Patreon',
+    component: patreon,
+    url: 'https://www.patreon.com/yolandadiefenbach',
+  },
   {
     label: 'Youtube',
     component: youtube,
     url: 'https://www.youtube.com/user/yolinumberone',
+  },
+  {
+    label: 'Ko-fi',
+    component: kofi,
+    url: 'https://ko-fi.com/soyyolanda',
+  },
+  {
+    label: 'Paypal',
+    component: paypal,
+    url: 'https://www.paypal.com/paypalme/soyyolanda',
   }
 ]
 
@@ -96,8 +99,8 @@ function App() {
         <footer className="footer">
           <a
             className="footer__item"
-            href="mailto:yolanda.diefenbach@gmail.com"
-          >yolanda.diefenbach@gmail.com</a>
+            href="mailto:hello@soyyolanda.com"
+          >hello@soyyolanda.com</a>
         </footer>
       </section>
     </div>
