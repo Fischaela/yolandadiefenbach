@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.f508ec82.chunk.css",
+    "main.css": "/static/css/main.e2c9c859.chunk.css",
     "main.js": "/static/js/main.9df3ead5.chunk.js",
     "main.js.map": "/static/js/main.9df3ead5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.33e62595.js",
@@ -8,11 +8,11 @@
     "static/js/2.b81e8838.chunk.js": "/static/js/2.b81e8838.chunk.js",
     "static/js/2.b81e8838.chunk.js.map": "/static/js/2.b81e8838.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ee02177d6bdca0b2e97501d16da2f57c.js": "/precache-manifest.ee02177d6bdca0b2e97501d16da2f57c.js",
+    "precache-manifest.8247ac9ec64547a999d14c1ee6f946fa.js": "/precache-manifest.8247ac9ec64547a999d14c1ee6f946fa.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f508ec82.chunk.css.map": "/static/css/main.f508ec82.chunk.css.map",
+    "static/css/main.e2c9c859.chunk.css.map": "/static/css/main.e2c9c859.chunk.css.map",
     "static/js/2.b81e8838.chunk.js.LICENSE.txt": "/static/js/2.b81e8838.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/DSC_4682-edit-2.c1546c8d.jpg",
+    "static/media/App.css": "/static/media/Jost-Light.e2e7112c.ttf",
     "static/media/DSC_5042-Bearbeitet.jpg": "/static/media/DSC_5042-Bearbeitet.adcfb416.jpg",
     "static/media/instagram.svg": "/static/media/instagram.662a4f14.svg",
     "static/media/kofi.svg": "/static/media/kofi.3b15f9a8.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.33e62595.js",
     "static/js/2.b81e8838.chunk.js",
-    "static/css/main.f508ec82.chunk.css",
+    "static/css/main.e2c9c859.chunk.css",
     "static/js/main.9df3ead5.chunk.js"
   ]
 }

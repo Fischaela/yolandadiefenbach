@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6360c25f19cc9772992fcb37384f99c7",
+    "revision": "71d657e80f6c1d594018f781c59ff04d",
     "url": "/index.html"
   },
   {
-    "revision": "0be0665a33d7ada40dae",
-    "url": "/static/css/main.f508ec82.chunk.css"
+    "revision": "0b0d535912d6d822eaef",
+    "url": "/static/css/main.e2c9c859.chunk.css"
   },
   {
     "revision": "b8be58222c91bb7f1dd5",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b81e8838.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0be0665a33d7ada40dae",
+    "revision": "0b0d535912d6d822eaef",
     "url": "/static/js/main.9df3ead5.chunk.js"
   },
   {
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "adcfb4164bebea4831bf200bf749adfd",
     "url": "/static/media/DSC_5042-Bearbeitet.adcfb416.jpg"
+  },
+  {
+    "revision": "e2e7112c0417169d33d9cbd6af02cd6d",
+    "url": "/static/media/Jost-Light.e2e7112c.ttf"
   },
   {
     "revision": "662a4f1472618eb2eb3b507d7459741f",
