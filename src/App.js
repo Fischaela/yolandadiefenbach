@@ -13,7 +13,7 @@ const social = [
   {
     label: 'Instagram',
     component: instagram,
-    url: 'https://www.instagram.com/yolanda.diefenbach/',
+    url: 'https://www.instagram.com/__soyyolanda__/',
   },
   {
     label: 'Patreon',
